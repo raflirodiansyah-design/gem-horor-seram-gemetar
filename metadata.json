@@ -1,0 +1,6 @@
+{
+  "name": "Siren Abyss Horror",
+  "description": "A thrilling deep-sea horror survival game. Evade the terrifying Siren mermaid, manage oxygen and flashlight battery, and find parts to escape the dark abyss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
